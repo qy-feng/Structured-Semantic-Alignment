@@ -3,10 +3,13 @@
 A new metric for evaluating the semantic consistency and robustness of multi-modal image synthesis models.
 
 
-TODO:
+## MIS-Score toolkit
 
-- GroundBench
+python toolkit/test.py
 
-- MIS-Score toolkit
+## GroundBench
 
-- Test results
+https://drive.google.com/file/d/1whvuP1br-WvCO1CM0UAiqWS6mJf3N07h/view?usp=sharing
+
+
+More results will be available soon.
