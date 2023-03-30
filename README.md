@@ -1,7 +1,7 @@
-# MIS-Score
+# Semantic Contrastive Testing
 
-A new metric for evaluating the semantic consistency and robustness of multi-modal image synthesis models.
+A new method for evaluating the semantic consistency and robustness of multi-modal image synthesis models.
 
 
 
-More results will be available soon.
+More resources will be available soon.
