@@ -5,10 +5,11 @@ A new method for evaluating the semantic consistency and robustness of multi-mod
 
 
 ```
-@article{wang2024havtr,
-  title={HaVTR: Improving Video-Text Retrieval Through Augmentation Using Large Foundation Models},
-  author={Wang, Yimu and Yuan, Shuai and Jian, Xiangru and Pang, Wei and Wang, Mushi and Yu, Ning},
-  journal={arXiv preprint arXiv:2404.05083},
-  year={2024}
+@inproceedings{feng2023uncovering,
+  title={Uncovering Limitations in Text-to-Image Generation: A Contrastive Approach with Structured Semantic Alignment},
+  author={Feng, Qianyu and Sui, Yulei and Zhang, Hongyu},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={8876--8888},
+  year={2023}
 }
 ```
